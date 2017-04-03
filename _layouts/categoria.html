@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+<div class="categoria">
+
+  {{ content }}
+
+  <ul class="lista-posts">
+    {% for post in site.posts %}
+    	{{ page.categories }}
+    {% endfor %}
+  </ul>
+</div>
