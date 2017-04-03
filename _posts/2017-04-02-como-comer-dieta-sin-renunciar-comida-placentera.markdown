@@ -2,7 +2,7 @@
 layout: post
 title:  "Dieta no estricta"
 date:   2017-04-02 20:37:42 +0200
-categories: dietas
+category: dietas
 ---
 * 2 calamares
 * 100 g de jamón serrano

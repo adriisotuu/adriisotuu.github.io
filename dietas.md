@@ -1,15 +1,12 @@
 ---
-layout: categorias
+layout: categoria
 title: Dietas
 permalink: /dietas/
 ---
+En esta sección encontrarás una gran variedad de dietas: tanto para adelgazar u
+obtener definición muscular, así como dietas de aumento de masa muscular pensadas 
+para aquellas personas a las que les cuesta subir de peso.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+También disponemos de posts interesantes sobre las dietas más famosas con sus 
+beneficios y/o inconvenientes, recetas para hacer platos especialmente sabrosos 
+y muchas cosas más.  
