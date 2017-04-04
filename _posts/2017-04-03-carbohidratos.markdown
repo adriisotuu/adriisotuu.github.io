@@ -2,7 +2,7 @@
 layout: post
 title:  "Los Carbohidratos"
 date:   2017-04-03 20:26:54 +0200
-categories: nutricion
+category: nutricion
 ---
 Los hidratos de carbono (HC), también denominados glúcidos, carbohidratos o, vulgarmente, 
 azúcares, están considerados como la fuente de energía preferida por el organismo humano, 

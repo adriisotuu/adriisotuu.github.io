@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Jekyll!"
 date: 2017-04-04 20:36:42 +0200
-categories: nutricion
+category: nutricion
 ---
 
 Las proteínas son los nutrientes estructurales del organismo y están constituidas por unidades 

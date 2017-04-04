@@ -1,8 +1,9 @@
 ---
+comments: true
 layout: post
 title:  "Entrenamiento de volumen en casa de cuerpo completo"
 date:   2017-04-03 21:18:42 +0200
-categories: rutinas
+category: rutinas
 ---
 Las rutinas para ganar masa muscular y volumen no se tienen porque limitar a 
 entrenar en el gimnasio. Si dispones del equipo adecuado puedes realizar una 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Consejos para detener crecimiento del vello"
 date:   2017-04-05 20:57:58 +0200
-categories: salud
+category: salud
 ---
 Mientras que para algunos, el rápido crecimiento del vello en todo el cuerpo 
 resulta beneficioso, para otros tantos se torna en una situación incómoda para 

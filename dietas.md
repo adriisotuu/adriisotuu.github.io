@@ -1,6 +1,7 @@
 ---
 layout: categoria
 title: Dietas
+category_name: dietas
 permalink: /dietas/
 ---
 En esta sección encontrarás una gran variedad de dietas: tanto para adelgazar u

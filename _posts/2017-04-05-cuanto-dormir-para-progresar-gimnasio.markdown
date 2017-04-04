@@ -2,7 +2,7 @@
 layout: post
 title:  "¿Cuánto dormir para progresar en el gimnasio?"
 date:   2017-04-05 20:54:42 +0200
-categories: salud
+category: salud
 ---
 El descanso, concepto formado por el sueño y el reposo o relajación, es imprescindible 
 para conseguir tus objetivos.

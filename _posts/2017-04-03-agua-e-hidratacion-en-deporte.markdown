@@ -2,7 +2,7 @@
 layout: post
 title:  "Agua e Hidratación en el Deporte"
 date:   2017-04-03 20:29:14 +0200
-categories: nutricion
+category: nutricion
 ---
 El agua es, sin lugar a dudas, la sustancia nutritiva más importante, constituyendo 
 alrededor del 60% del peso corporal total, de manera que casi podríamos afirmar que 
