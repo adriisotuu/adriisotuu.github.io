@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: 2017-04-04 20:36:42 +0200
+title: "Las Proteínas"
+date: 2017-04-04 12:36:42 +0200
+author: Adrià Soto
 category: nutricion
 ---
 

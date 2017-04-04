@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dieta de 1200 calorías"
-date:   2017-04-06 21:03:16 +0200
+date:   2017-04-04 09:03:16 +0200
 category: dietas
 ---
 Esta dieta cuenta con un total de 1200 calorías repartidas en 5 comidas, la 

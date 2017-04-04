@@ -22,11 +22,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: adria.sototortola
 github_username: adriisotuu
+#paginate: 5 #Number of items displayed per page
+#paginate_path: "pages/:num"
 
 # Build settings
 markdown: kramdown
 #theme: minima
-gems:
+gems: 
   - jekyll-feed
 exclude:
   - Gemfile
