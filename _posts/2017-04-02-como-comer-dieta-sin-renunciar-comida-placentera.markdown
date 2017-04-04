@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Dieta no estricta"
 date:   2017-04-02 20:37:42 +0200
