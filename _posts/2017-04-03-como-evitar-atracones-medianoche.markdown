@@ -3,7 +3,11 @@ layout: post
 title:  "Cómo evitar los atracones de medianoche"
 date:   2017-04-03 17:57:30 +0200
 category: nutricion
+author: Adrià Soto
+tags : [consejo, dieta]
 ---
+![Atracones comida rápida](/assets/atracones-comida-rapida.jpg)
+
 ¿Alguna vez has sentido la necesidad de arrasar con todo? Esto sucede cuando 
 padecemos situaciones de ansiedad o estrés. Comer en abundancia calma este 
 tipo de trastornos pero no es nada bueno para la salud, ya que los alimentos 

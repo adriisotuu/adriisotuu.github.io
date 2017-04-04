@@ -3,8 +3,12 @@ comments: true
 layout: post
 title:  "Dieta no estricta"
 date:   2017-04-02 20:37:42 +0200
+author: Adrià Soto
 category: dietas
+tags: [ ]
 ---
+![Dieta no estricta](/assets/dieta-no-estricta.jpg)
+
 * 2 calamares
 * 100 g de jamón serrano
 * 50 g de miga de pan

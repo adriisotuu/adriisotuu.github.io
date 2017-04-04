@@ -23,13 +23,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: adria.sototortola
 github_username: adriisotuu
 #paginate: 5 #Number of items displayed per page
-#paginate_path: "pages/:num"
+#paginate_path: "page:num"
 
 # Build settings
 markdown: kramdown
 #theme: minima
 gems: 
-  - jekyll-feed
+  - jekyll-feed 
 exclude:
   - Gemfile
   - Gemfile.lock

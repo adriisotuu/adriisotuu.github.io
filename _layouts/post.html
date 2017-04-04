@@ -12,26 +12,26 @@ layout: default
     {{ content }}
   </div>
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
-
-  <h2>Posts recomendados</h2>
+  <h2>Últimos posts publicados</h2>
  
-  {% assign count = 0 %}
-  {% for post in site.posts %}
-    {% if post.title != page.title %}
-      {% assign count = count | plus:1 %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endif %}
-    {% if count == 3 %}
-      {% break %}
-    {% endif %}
-  {% endfor %}
+  <ul class="post-list">
+    {% assign count = 0 %}
+    {% for post in site.posts %}
+      {% if post.title != page.title %}
+        {% assign count = count | plus:1 %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </h2>
+        </li>
+      {% endif %}
+      {% if count == 3 %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+  
+  {% include disqus_comments.html %}
 
 </article>

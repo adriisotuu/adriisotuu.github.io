@@ -8,17 +8,19 @@ layout: default
   
   {{ content }}
 
-  {% for post in site.posts %}
-	{% if post.category == page.category_name %}
-	  <ul>
-	    <li>{{ post.title }} , {{ post.categories }}</li>
-	  </ul>
-	{% endif %}
-  {% endfor %}
-  
-  {% assign minus = page.title %}
+  <ul class="post-list">
+    {% for post in site.posts %}
+      {% if post.category == page.category_name %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </h2>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 
-  {{ minus }}<br/>
-  {{ page.category_name }}<br/>
-  {{ site.categories }}
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
 </div>

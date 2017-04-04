@@ -310,6 +310,9 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
+#autor_fecha_post {
+  margin-left: 70%; }
+
 /**
  * Syntax highlighting styles
  */

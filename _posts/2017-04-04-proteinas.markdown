@@ -3,8 +3,10 @@ layout: post
 title: "Las Proteínas"
 date: 2017-04-04 12:36:42 +0200
 author: Adrià Soto
+author: Adrià Soto
 category: nutricion
 ---
+![Proteínas](/assets/proteinas.jpg)
 
 Las proteínas son los nutrientes estructurales del organismo y están constituidas por unidades 
 elementales llamadas aminoácidos, necesarias para el crecimiento y metabolismo humanos.
