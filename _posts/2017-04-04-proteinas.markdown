@@ -43,3 +43,6 @@ o doce reciben la denominación de aminoácidos no esenciales, lo que significa 
 los “fabrica” y no depende del consumo dietético para su suministro. A los restantes ocho o nueve 
 se les denomina aminoácidos esenciales porque el organismo no los puede sintetizar, lo que 
 significa que son parte fundamental de la dieta diaria.
+
+Una forma alternativa de consumir proteínas es su consumo en forma de [polvos](https://www.myprotein.es), para así favorecer a 
+la recuperación de las fibras musculares después de una sesión de ejercicio físico
