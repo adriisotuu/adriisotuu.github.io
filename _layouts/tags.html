@@ -1,11 +1,20 @@
 ---
 layout: default
 ---
-<h1>Tag Cloud</h1>
+<h1>Tags</h1>
+
+{% comment %}
+  Pàgina amb els tags i el llistat de posts que els inclouen
+{% endcomment %}
 
 <div class="tags-postlist">
   {% assign tags = site.tags | sort %}
   {% for tag in tags %}
+    {% comment %}
+      Important: a cada nom de tag li estem donant un id per quan
+      cliquem els links dels tags ens redirigeixi al punt exacte d'aquesta
+      pàgina on es troba el tag
+    {% endcomment %}
     <h2 id="{{ tag[0] }}">{{ tag[0] }}({{ tag | last | size }})</h2>
     <ul>
       {% for post in tag[1] %}

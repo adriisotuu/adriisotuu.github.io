@@ -1,3 +1,9 @@
+{% comment %} 
+  Aquest include s'afegirà al layout post perquè per cada
+  post apareixi una secció que digui tags amb els tags que
+  conté el post
+{% endcomment %}
+
 <h4>Tags:</h4>
 <ul class="post-tag-list">
 {% for tag in page.tags %}

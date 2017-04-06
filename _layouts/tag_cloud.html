@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<h1>Tag Cloud</h1>
+
+{% comment %} Generem una variable amb tots els tags ordenats alfabèticament {% endcomment %}
+{% assign tags = site.tags | sort %}
+
+{% for tag in tags %}
+ <span class="site-tag">
+   {% comment %} 
+     Cada tag serà un link a la pàgina /tags on es troba cada tag 
+     amb el corresponent llistat de posts que la inclouen 
+   {% endcomment %}
+   <a href="/tags#{{ tag[0] }}"
+        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})	
+   </a>
+   {% comment %}
+     Per tal de calcular la quantitat de posts on hi apareix cada tag hem
+     utilitzat els filtres last i size. Els tags amb més quantitat de posts
+     apareixerà amb un tamany major
+   {% endcomment %}
+</span>
+{% endfor %}
