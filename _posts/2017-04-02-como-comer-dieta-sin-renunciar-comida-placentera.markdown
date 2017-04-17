@@ -5,23 +5,9 @@ title:  "Dieta no estricta"
 date:   2017-04-02 20:37:42 +0200
 author: Adrià Soto
 category: dietas
+tags: [dieta, receta, ingredientes, alimentos]
 ---
 ![Dieta no estricta](/assets/dieta-no-estricta.jpg)
-
-* 2 calamares
-* 100 g de jamón serrano
-* 50 g de miga de pan
-* 50 ml de leche
-* 2 cebollas
-* 1 diente de ajo
-* 1 cucharada de perejil
-* Un poco de azúcar
-* 3 dl de caldo de pescado
-* 3 dl de sidra
-* 5 dl de tomates. Los tomates deben ser en conserva.
-* 6 ó 7 cucharaditas de aceite. Por supuesto, aceite de oliva.
-* Un poco de sal
-* Un poco de pimienta molida para salzonar.
 
 En primer lugar, debes encargarte de limpiar los calamares y trocear los tentáculos 
 en pedacitos pequeñitos pues será uno de los ingredientes del relleno. Una vez esté 
@@ -29,6 +15,8 @@ listo, lo pones a cocer.
 
 Desde el principio, debes meter la miga de pan a remojar en leche, así se irá ablandando 
 mientras tu avanzas en la receta.
+
+<!--excerpt-->
 
 En este momento es cuando empezamos a realizar el relleno del calamar. Para ello, debes 
 picar cebolla y añadirla a una sartén con aceite ya caliente, añades también ajo picado 
@@ -46,4 +34,21 @@ Para ello, picamos cebolla y la sofreímos en la sartén con un poquito de aceit
 está pochada le añadimos el tomate en conserva, sal, pimienta y un chorrito de sidra. 
 Esperamos a que se evapore el alcohol y agregamos el caldo de pescado. Esperamos a que 
 espese y ya estará listo para ponerlo por encima de nuestros calamares rellenos.
+
+## Ingredientes:
+
+* 2 calamares
+* 100 g de jamón serrano
+* 50 g de miga de pan
+* 50 ml de leche
+* 2 cebollas
+* 1 diente de ajo
+* 1 cucharada de perejil
+* Un poco de azúcar
+* 3 dl de caldo de pescado
+* 3 dl de sidra
+* 5 dl de tomates. Los tomates deben ser en conserva.
+* 6 ó 7 cucharaditas de aceite. Por supuesto, aceite de oliva.
+* Un poco de sal
+* Un poco de pimienta molida para salzonar.
 

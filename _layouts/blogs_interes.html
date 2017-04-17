@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<h1>Blogs de Interés</h1>
+
+{{ content }}
+
+<ul>
+  {% for blog in site.data.blogs %}
+  <li>
+    <a href="https://{{ blog.github }}.github.io">
+      {{ blog.nombre_blog }}
+    </a>
+  </li>
+  {% endfor %}
+</ul>

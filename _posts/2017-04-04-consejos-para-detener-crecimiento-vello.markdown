@@ -4,6 +4,7 @@ title:  "Consejos para detener crecimiento del vello"
 date:   2017-04-04 10:57:58 +0200
 author: Adrià Soto
 category: salud
+tags: [consejo, cabello, alimentos]
 ---
 ![Crecimiento del cabello](/assets/crecimiento-del-cabello.jpg)
 
@@ -13,6 +14,8 @@ su estética. Sin embargo, existen algunos remedios rápidos que pueden dar solu
 a este problema, que no sólo se trata de una cuestión de belleza, sino que también 
 de higiene, y que para mantenerse a raya, muchas veces requiere de grandes desembolsos 
 de dinero.
+
+<!--excerpt-->
 
 La depilación por láser es un método efectivo sin duda, pero también lo es demasiado caro 
 para muchos. El uso de cera o la rasuradora es más tedioso y doloroso, además de que debe 

@@ -3,8 +3,8 @@ layout: post
 title: "Las Proteínas"
 date: 2017-04-04 12:36:42 +0200
 author: Adrià Soto
-author: Adrià Soto
 category: nutricion
+tags: [nutrientes, dieta, proteínas, alimentos]
 ---
 ![Proteínas](/assets/proteinas.jpg)
 
@@ -16,6 +16,8 @@ la fuente de la velocidad y la fuerza para el esfuerzo atlético. Aunque ahora s
 los hidratos de carbono son la principal fuente de energía para los humanos, las proteínas 
 siguen siendo un importante nutriente de especial interés, sobre todo entre levantadores de 
 pesas, culturistas y aquellos que realizan un entrenamiento de fuerza.
+
+<!--excerpt-->
 
 Las proteínas realizan numerosas funciones en el organismo:
 
@@ -44,5 +46,5 @@ los “fabrica” y no depende del consumo dietético para su suministro. A los 
 se les denomina aminoácidos esenciales porque el organismo no los puede sintetizar, lo que 
 significa que son parte fundamental de la dieta diaria.
 
-Una forma alternativa de consumir proteínas es su consumo en forma de [polvos](https://www.myprotein.es), para así favorecer a 
-la recuperación de las fibras musculares después de una sesión de ejercicio físico
+Una forma alternativa de consumir proteínas es su consumo en forma de [polvos](https://www.myprotein.es), 
+para así favorecer a la recuperación de las fibras musculares después de una sesión de ejercicio físico.

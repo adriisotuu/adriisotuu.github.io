@@ -1,6 +1,5 @@
 ---
 layout: default
-excerpt_separator: <!--more-->
 ---
 
 <div class="categoria">
@@ -9,16 +8,19 @@ excerpt_separator: <!--more-->
   
   {{ content }}
 
-  <ul class="post-list">
+  <ul id="lista_posts_categoria" class="post-list">
     {% for post in site.posts %}
       {% if post.category == page.category_name %}
         <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+	  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+	  <h2>
+            {{ post.title }}
           </h2>
 	  {{ post.excerpt }}
-        </li>
+	  {% if post.content contains site.excerpt_separator %}
+	    <a id="leer_mas" href="{{ post.url | prepend: relative_url }}">Leer más...</a>
+	  {% endif %}
+	</li>
       {% endif %}
     {% endfor %}
   </ul>

@@ -5,6 +5,7 @@ title:  "Entrenamiento de volumen en casa de cuerpo completo"
 date:   2017-04-03 21:18:42 +0200
 author: Adrià Soto
 category: rutinas
+tags: [rutina, volumen, ejercicio]
 ---
 ![Hacer ejercicio en casa](/assets/hacer-ejercicio-en-casa.jpg)
 
@@ -12,6 +13,8 @@ Las rutinas para ganar masa muscular y volumen no se tienen porque limitar a
 entrenar en el gimnasio. Si dispones del equipo adecuado puedes realizar una 
 rutina completa y aumentar tu masa muscular sin salir de tu propia casa, en tu 
 ambiente, con tu música, etc.
+
+<!--excerpt-->
 
 Este es un entrenamiento intenso, pocas series y un peso medio-alto con objetivo 
 para fuerza-hipertrofia. El objetivo es intentar subir en fuerza poco a poco con una 

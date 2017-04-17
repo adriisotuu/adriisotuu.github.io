@@ -20,10 +20,10 @@ description: > # this means to ignore newlines until "baseurl:"
   En este blog hablaré de temas relacionados con el gimnasio.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: adria.sototortola
+facebook_username: adria.sototortola
+instagram_username: adriiisotuu96 
 github_username: adriisotuu
-#paginate: 5 #Number of items displayed per page
-#paginate_path: "page:num"
+excerpt_separator: <!--excerpt-->
 
 # Build settings
 markdown: kramdown

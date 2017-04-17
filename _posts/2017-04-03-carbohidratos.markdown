@@ -4,7 +4,7 @@ title:  "Los Carbohidratos"
 date:   2017-04-03 20:26:54 +0200
 category: nutricion
 author: Adrià Soto
-tags: [nutrientes, dieta]
+tags: [nutrientes, dieta, carbohidratos, alimentos]
 ---
 ![Fuentes de carbohidratos](/assets/fuentes-de-carbohidratos.jpg)
 
@@ -14,6 +14,8 @@ tanto para las actividades físicas como mentales.
 
 El concepto de energía en relación con el rendimiento, el bienestar y la salud se basa en 
 una dieta de hidratos de carbono junto con un control de las grasas.
+
+<!--excerpt-->
 
 Podemos clasificar los hidratos de carbono en dos categorías: simples y complejos.
 

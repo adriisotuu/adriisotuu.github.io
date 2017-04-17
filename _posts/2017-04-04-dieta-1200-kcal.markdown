@@ -4,6 +4,7 @@ title:  "Dieta de 1200 calorías"
 date:   2017-04-04 09:03:16 +0200
 author: Adrià Soto
 category: dietas
+tags: [dieta, nutrientes, adelgazar]
 ---
 ![Dieta de 1200 calorías](/assets/dieta-de-1200-calorias.jpg)
 
@@ -12,6 +13,8 @@ cual puede ser usada en un peridodo de tiempo que no supere las dos semanas.
 
 Como siempre recomendamos acudir a un médico antes de realizar alguna dieta, 
 para que valore la calidad y propiedades de la dieta.
+
+<!--excerpt-->
 
 La dieta esta repartida en cinco comidas, desayuno, almuerzo, comida, merienda 
 y cena. Los alimentos que incluimos establecen una serie de apropiada de 
@@ -44,8 +47,11 @@ descremado.
 
 ## Cena
 
-La cena se compone de una ensalada, un plato fuerte y un postre, en cada uno te damos dos opciones debes de elegir uno.
+La cena se compone de una ensalada, un plato fuerte y un postre, en cada uno te damos dos 
+opciones debes de elegir uno.
 
-* Ensalada: Elegiremos entre una ensalada con 150 gramos de tomate y 150 gramos de lechuga o 200 gramos de verdura cocida.
-* Plato: Podremos elegir entre tomar 150 gramos de pescado tipo lenguado o 100 gramos de carne de pollo.
+* Ensalada: Elegiremos entre una ensalada con 150 gramos de tomate y 150 gramos de lechuga o 
+200 gramos de verdura cocida.
+* Plato: Podremos elegir entre tomar 150 gramos de pescado tipo lenguado o 100 gramos de carne 
+de pollo.
 * Postre: 1 Manzana (Verde o Roja)

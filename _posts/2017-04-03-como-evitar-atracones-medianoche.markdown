@@ -4,7 +4,7 @@ title:  "Cómo evitar los atracones de medianoche"
 date:   2017-04-03 17:57:30 +0200
 category: nutricion
 author: Adrià Soto
-tags : [consejo, dieta]
+tags : [consejo, dieta, grasas]
 ---
 ![Atracones comida rápida](/assets/atracones-comida-rapida.jpg)
 
@@ -14,6 +14,8 @@ tipo de trastornos pero no es nada bueno para la salud, ya que los alimentos
 que se acostumbran a consumir no suelen ser muy saludables. En este post te 
 enseñaremos cuatro consejos para evitar los atracones de medianoche. 
 ¡Sigue leyendo, no te lo puedes perder!
+
+<!--excerpt-->
 
 ## 4 consejos para evitar los atracones de medianoche
 

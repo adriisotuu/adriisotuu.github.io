@@ -4,7 +4,7 @@ title:  "¿Cuánto dormir para progresar en el gimnasio?"
 date:   2017-04-04 12:54:42 +0200
 author: Adrià Soto
 category: salud
-tags: [dormir, sueño, estrés]
+tags: [dormir, sueño, estrés, gimnasio]
 ---
 ![Cómo dormir bien](/assets/como-dormir-bien.jpg)
 
@@ -18,6 +18,8 @@ resultan bastante subjetivas, pero suelen oscilar habitualmente entre 6 y 9 hora
 extremos de hasta 2 y 10 horas, sin perturbación de las facultades ni pérdida de 
 rendimiento, según demostró el Informe General del Sueño, efectuado mediante observaciones 
 fidedignas de millares de individuos de diversas edades y a lo largo de un tiempo suficiente.
+
+<!--excerpt-->
 
 Generalmente, el rendimiento deportivo se potencia durmiendo más (7 a 9 horas), mientras 
 que el intelectual y de personas que realizan actividades mentales suele mejorar dedicando 
