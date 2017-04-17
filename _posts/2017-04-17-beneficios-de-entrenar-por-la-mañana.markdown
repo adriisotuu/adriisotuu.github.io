@@ -6,6 +6,8 @@ author: Adrià Soto
 category: salud
 tags: [ejercicio, deporte, dormir]
 ---
+![Entrenar por la mañana](/assets/entrenar_por_la_mañana.jpg)
+
 Cuando por fin nos decidimos hacer ejercicio y cambiar los hábitos de vida, nos asaltan una 
 serie de cuestiones que ponen en tela de juicio nuestra voluntad antes de empezar. Si 
 utilizamos la lógica, es probable que decidamos entrenar por la tarde o por la noche, 

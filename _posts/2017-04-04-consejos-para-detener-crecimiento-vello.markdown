@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Consejos para detener crecimiento del vello"
+title:  "Consejos para detener el crecimiento del vello"
 date:   2017-04-04 10:57:58 +0200
 author: Adrià Soto
 category: salud

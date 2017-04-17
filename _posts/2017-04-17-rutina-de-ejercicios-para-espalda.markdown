@@ -6,6 +6,8 @@ author: Adrià Soto
 category: rutinas
 tags: [espalda, rutina, ejercicios, calentamiento]
 ---
+![Rutina para espalda](/assets/rutina_para_espalda.jpg)
+
 En la parte posterior del cuerpo están los músculos de la espalda, ellos son los que 
 determinan una buena postura y aseguran la protección de la médula espinal.
 

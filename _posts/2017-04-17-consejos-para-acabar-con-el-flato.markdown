@@ -6,6 +6,8 @@ author: Adrià Soto
 category: salud
 tags: [deporte, consejo, dolor]
 ---
+![Flato](/assets/flato.jpg)
+
 ¿Practicas deporte habitualmente? Entonces debes conocer muy bien el flato y lo molesto que es. 
 Profundizando un poco más, es un dolor abdominal que se produce por debajo de las costillas 
 cuando roza el diafragma con la pared del estómago.

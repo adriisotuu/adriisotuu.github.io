@@ -6,6 +6,8 @@ author: Adrià Soto
 category: nutricion
 tags: [colesterol, grasas, alimentos, deporte]
 ---
+![Colesterol](/assets/colesterol.jpg)
+
 El colesterol es una sustancia que se encuentra en el organismo encargada de regular 
 funciones como la formación de los ácidos biliares o algunos tipos de hormonas. Aunque 
 es necesario, si su presencia en sangre está por encima de los niveles considerados normales, 

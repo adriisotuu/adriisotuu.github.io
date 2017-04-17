@@ -6,6 +6,7 @@ author: Adrià Soto
 category: dietas	
 tags: [dieta, abdominales, ingredientes, consejo, adelgazar]
 ---
+![Dieta para marcar abdomen](/assets/dieta_marcar_abdomen.jpg.gif)
 
 Tener el abdomen bien definido es una de las metas más anheladas por muchas personas hoy en día. 
 Sin embargo, alcanzar este objetivo requiere de una dedicación constante y sacrificios insospechados, 
@@ -88,4 +89,3 @@ Para hacer totalmente efectiva esta dieta, deberá seguirse al pie de la letra d
 seis semanas, acompañada de un entrenamiento adecuado para ganar masa muscular. Además, también se 
 aconseja el consumo de un multivitamínico para compensar la falta de frutas en la dieta, el cuál 
 puede conseguirse en cualquier farmacia.
-

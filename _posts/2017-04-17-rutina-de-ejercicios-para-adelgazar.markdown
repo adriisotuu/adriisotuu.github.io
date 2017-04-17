@@ -6,6 +6,8 @@ author: Adrià Soto
 category: rutinas
 tags: [adelgazar, rutina, ejercicios, calentamiento]
 ---
+![Rutina para adelgazar](/assets/rutina_para_adelgazar.jpg)
+
 Adelgazamiento o pérdida de peso, en el contexto de la medicina, salud o fitness, es 
 una reducción de la masa corporal de un individuo o animal, por razón de una pérdida 
 promedio de líquidos, grasa o de tejidos como el músculo, tendón o tejido conjuntivo. 

@@ -6,6 +6,8 @@ author: Adrià Soto
 category: rutinas
 tags: [pectoral, rutina, ejercicios, calentamiento]
 ---
+![Rutina para pectoral](/assets/rutina_para_pectoral.jpg)
+
 El músculo pectoral mayor (_Musculus pectoralis major_) es un músculo superficial, plano, 
 ubicado en la región anterosuperior del tórax.
 

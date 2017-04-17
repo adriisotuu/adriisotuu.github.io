@@ -6,6 +6,8 @@ author: Adrià Soto
 category: dietas
 tags: [dieta, ingredientes, suplementos]
 ---
+![Dieta mujer para masa muscular](/assets/dieta_mujer_masa_muscular.jpg)
+
 Como sabrás la alimentación es la base para poder ganar músculo; algunas fuentes indican que 
 es el 70% y el otro 30% es ejercicio y descanso. El desarrollo muscular requiere un incremento 
 de calorías, ósea debes de consumir más de las que gastas al día sobre todo en los momentos 
@@ -37,7 +39,7 @@ retarda la fatiga entre rutinas intensas.
 
 * 1 filete de pollo a la plancha (125 gramos)
 * 2 Quesadillas; tortillas de maíz, queso panela
-* 1 tazón de verduras cocidas; chayote, brocoli, zanahoria, calabaza.
+* 1 tazón de verduras cocidas; chayote, brocoli, zanahoria, calabaza
 * 250 ml de zumo de naranja natural
 
 ### Media mañana
@@ -62,6 +64,5 @@ retarda la fatiga entre rutinas intensas.
 ### Cena
 
 * 1 filete de pescado empapelado
-* 1 tazón de verduras cocidas; chayote, brocoli, zanahoria, calabaza.
-* 1 tazón de fruta; Papaya, manzana con granola.
-
+* 1 tazón de verduras cocidas; chayote, brocoli, zanahoria, calabaza
+* 1 tazón de fruta; Papaya, manzana con granola
