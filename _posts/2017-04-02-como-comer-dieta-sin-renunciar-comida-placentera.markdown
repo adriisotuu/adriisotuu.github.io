@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title:  "Dieta no estricta"
-date:   2017-04-02 20:37:42 +0200
+title: "Dieta no estricta"
+date: 2017-04-02 20:37:42 +0200
 author: Adrià Soto
 category: dietas
 tags: [dieta, receta, ingredientes, alimentos]

@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "¿Cómo fortalecer los gemelos correctamente?"
-date:   2017-04-17 19:45:59 +0200
+comments: true
+title: "¿Cómo fortalecer los gemelos correctamente?"
+date: 2017-04-17 19:45:59 +0200
 author: Adrià Soto
 category: salud
 tags: [consejo, gimnasio]

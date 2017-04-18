@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "¿Por qué es tan beneficioso entrenar por la mañana?"
-date:   2017-04-17 19:37:08 +0200
+comments: true
+title: "¿Por qué es tan beneficioso entrenar por la mañana?"
+date: 2017-04-17 19:37:08 +0200
 author: Adrià Soto
 category: salud
 tags: [ejercicio, deporte, dormir]

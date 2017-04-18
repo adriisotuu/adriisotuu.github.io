@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Dieta de mujer para ganar masa muscular"
-date:   2017-04-17 18:09:22 +0200
+comments: true
+title: "Dieta de mujer para ganar masa muscular"
+date: 2017-04-17 18:09:22 +0200
 author: Adrià Soto
 category: dietas
 tags: [dieta, ingredientes, suplementos]

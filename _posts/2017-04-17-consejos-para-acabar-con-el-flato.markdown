@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Consejos para acabar con el flato"
-date:   2017-04-17 19:47:28 +0200
+comments: true
+title: "Consejos para acabar con el flato"
+date: 2017-04-17 19:47:28 +0200
 author: Adrià Soto
 category: salud
 tags: [deporte, consejo, dolor]

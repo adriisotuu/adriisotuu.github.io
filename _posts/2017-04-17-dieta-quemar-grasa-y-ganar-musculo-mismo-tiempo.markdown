@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Dieta para quemar grasa y ganar músculo al mismo tiempo"
-date:   2017-04-17 19:05:12 +0200
+comments: true
+title: "Dieta para quemar grasa y ganar músculo al mismo tiempo"
+date: 2017-04-17 19:05:12 +0200
 author: Adrià Soto
 category: dietas	
 tags: [dieta, adelgazar, nutrientes, proteínas, carbohidratos, grasas, consejo]

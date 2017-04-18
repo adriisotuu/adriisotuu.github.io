@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Rutina de ejercicios para espalda"
 date: 2017-04-17 20:53:54 +0200
 author: Adrià Soto

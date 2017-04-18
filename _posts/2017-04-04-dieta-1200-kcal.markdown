@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Dieta de 1200 calorías"
-date:   2017-04-04 09:03:16 +0200
+comments: true
+title: "Dieta de 1200 calorías"
+date: 2017-04-04 09:03:16 +0200
 author: Adrià Soto
 category: dietas
 tags: [dieta, nutrientes, adelgazar]

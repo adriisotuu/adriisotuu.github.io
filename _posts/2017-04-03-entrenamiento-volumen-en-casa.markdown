@@ -1,8 +1,8 @@
 ---
-comments: true
 layout: post
-title:  "Entrenamiento de volumen en casa de cuerpo completo"
-date:   2017-04-03 21:18:42 +0200
+comments: true
+title: "Entrenamiento de volumen en casa de cuerpo completo"
+date: 2017-04-03 21:18:42 +0200
 author: Adrià Soto
 category: rutinas
 tags: [rutina, volumen, ejercicio]

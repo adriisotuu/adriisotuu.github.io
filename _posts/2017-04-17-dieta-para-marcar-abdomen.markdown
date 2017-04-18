@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Dieta para marcar el abdomen"
-date:   2017-04-17 18:45:45 +0200
+comments: true
+title: "Dieta para marcar el abdomen"
+date: 2017-04-17 18:45:45 +0200
 author: Adrià Soto
 category: dietas	
 tags: [dieta, abdominales, ingredientes, consejo, adelgazar]

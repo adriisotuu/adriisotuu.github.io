@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Los Carbohidratos"
-date:   2017-04-03 20:26:54 +0200
+comments: true
+title: "Los Carbohidratos"
+date: 2017-04-03 20:26:54 +0200
 category: nutricion
 author: Adrià Soto
 tags: [nutrientes, dieta, carbohidratos, alimentos]

@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Agua e Hidratación en el Deporte"
-date:   2017-04-03 20:29:14 +0200
+comments: true
+title: "Agua e Hidratación en el Deporte"
+date: 2017-04-03 20:29:14 +0200
 category: nutricion
 author: Adrià Soto
 tags: [agua, hidratación, deporte]

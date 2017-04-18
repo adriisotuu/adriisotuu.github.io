@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Las Proteínas"
 date: 2017-04-04 12:36:42 +0200
 author: Adrià Soto

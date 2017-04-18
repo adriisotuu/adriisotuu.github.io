@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Rutina de ejercicios para adelgazar"
 date: 2017-04-17 20:25:11 +0200
 author: Adrià Soto

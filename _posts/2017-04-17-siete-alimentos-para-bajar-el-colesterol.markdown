@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Siete alimentos para bajar el colesterol"
 date: 2017-04-17 19:22:10 +0200
 author: Adrià Soto

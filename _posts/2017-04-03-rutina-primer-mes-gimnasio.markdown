@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Rutina de pesas para tu primer mes en el gimnasio"
-date:   2017-04-03 20:07:15 +0200
+comments: true
+title: "Rutina de pesas para tu primer mes en el gimnasio"
+date: 2017-04-03 20:07:15 +0200
 author: Adrià Soto
 category: rutinas
 tags: [rutina, gimnasio, ejercicios]
