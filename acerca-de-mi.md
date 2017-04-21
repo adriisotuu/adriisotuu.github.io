@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de mí
-permalink: /acerca_de_mi/
+permalink: /acerca-de-mi/
 ---
 
 Hola, como bien habrás deducido por el título del blog mi nombre es Adri.

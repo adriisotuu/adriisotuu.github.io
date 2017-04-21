@@ -7,7 +7,7 @@ author: Adrià Soto
 category: salud
 tags: [consejo, cabello, alimentos]
 ---
-![Crecimiento del cabello](/assets/crecimiento-del-cabello.jpg)
+![Crecimiento del cabello](/img/crecimiento-del-cabello.jpg)
 
 Mientras que para algunos, el rápido crecimiento del vello en todo el cuerpo 
 resulta beneficioso, para otros tantos se torna en una situación incómoda para 

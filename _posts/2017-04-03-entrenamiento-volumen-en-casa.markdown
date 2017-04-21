@@ -7,7 +7,7 @@ author: Adrià Soto
 category: rutinas
 tags: [rutina, volumen, ejercicio]
 ---
-![Hacer ejercicio en casa](/assets/hacer-ejercicio-en-casa.jpg)
+![Hacer ejercicio en casa](/img/hacer-ejercicio-en-casa.jpg)
 
 Las rutinas para ganar masa muscular y volumen no se tienen porque limitar a 
 entrenar en el gimnasio. Si dispones del equipo adecuado puedes realizar una 

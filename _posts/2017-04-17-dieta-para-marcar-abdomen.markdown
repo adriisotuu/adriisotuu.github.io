@@ -7,7 +7,7 @@ author: Adrià Soto
 category: dietas	
 tags: [dieta, abdominales, ingredientes, consejo, adelgazar]
 ---
-![Dieta para marcar abdomen](/assets/dieta_marcar_abdomen.jpg.gif)
+![Dieta para marcar abdomen](/img/dieta_marcar_abdomen.jpg.gif)
 
 Tener el abdomen bien definido es una de las metas más anheladas por muchas personas hoy en día. 
 Sin embargo, alcanzar este objetivo requiere de una dedicación constante y sacrificios insospechados, 

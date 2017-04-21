@@ -7,7 +7,7 @@ layout: default
   {{ content }}
 
   {% for post in site.posts %}
-    <h1>{{ post.title }}</h1>
+    <h1 id="titulo_post_home">{{ post.title }}</h1>
     <div>{{ post.content }}</div>
     <p id="autor_fecha_post" class="post-meta">
       <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
@@ -18,7 +18,7 @@ layout: default
       {% endif %}
     </p>
     {% if forloop.last == false %}
-      <p>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</p>
+      <p>••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</p>
     {% endif %}
   {% endfor %}
 

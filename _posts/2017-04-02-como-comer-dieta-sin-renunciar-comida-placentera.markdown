@@ -7,7 +7,7 @@ author: Adrià Soto
 category: dietas
 tags: [dieta, receta, ingredientes, alimentos]
 ---
-![Dieta no estricta](/assets/dieta-no-estricta.jpg)
+![Dieta no estricta](/img/dieta-no-estricta.jpg)
 
 En primer lugar, debes encargarte de limpiar los calamares y trocear los tentáculos 
 en pedacitos pequeñitos pues será uno de los ingredientes del relleno. Una vez esté 

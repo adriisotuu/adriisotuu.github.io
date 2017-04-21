@@ -7,7 +7,7 @@ category: nutricion
 author: Adrià Soto
 tags: [agua, hidratación, deporte]
 ---
-![Hidratación en el deporte](/assets/hidratacion-en-el-deporte.jpg) 
+![Hidratación en el deporte](/img/hidratacion-en-el-deporte.jpg) 
 
 El agua es, sin lugar a dudas, la sustancia nutritiva más importante, constituyendo
 alrededor del 60% del peso corporal total, de manera que casi podríamos afirmar que

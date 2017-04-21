@@ -7,7 +7,7 @@ author: Adrià Soto
 category: salud
 tags: [consejo, gimnasio]
 ---
-![Fortalecer los gemelos](/assets/fortalecer_gemelos.jpg)
+![Fortalecer los gemelos](/img/fortalecer_gemelos.jpg)
 
 Las piernas y en concreto los gemelos, son la parte del cuerpo que más cuesta de desarrollar 
 cuando vamos al gimnasio. En este post te enseñaremos unos pequeños consejos para que consigáis 

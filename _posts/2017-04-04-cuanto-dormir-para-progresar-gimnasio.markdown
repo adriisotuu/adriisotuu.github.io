@@ -7,7 +7,7 @@ author: Adrià Soto
 category: salud
 tags: [dormir, sueño, estrés, gimnasio]
 ---
-![Cómo dormir bien](/assets/como-dormir-bien.jpg)
+![Cómo dormir bien](/img/como-dormir-bien.jpg)
 
 El descanso, concepto formado por el sueño y el reposo o relajación, es imprescindible 
 para conseguir tus objetivos.

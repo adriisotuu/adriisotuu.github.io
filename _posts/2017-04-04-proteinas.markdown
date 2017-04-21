@@ -7,7 +7,7 @@ author: Adrià Soto
 category: nutricion
 tags: [nutrientes, dieta, proteínas, alimentos]
 ---
-![Proteínas](/assets/proteinas.jpg)
+![Proteínas](/img/proteinas.jpg)
 
 Las proteínas son los nutrientes estructurales del organismo y están constituidas por unidades 
 elementales llamadas aminoácidos, necesarias para el crecimiento y metabolismo humanos.

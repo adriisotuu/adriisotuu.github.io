@@ -7,7 +7,7 @@ category: nutricion
 author: Adrià Soto
 tags : [consejo, dieta, grasas]
 ---
-![Atracones comida rápida](/assets/atracones-comida-rapida.jpg)
+![Atracones comida rápida](/img/atracones-comida-rapida.jpg)
 
 ¿Alguna vez has sentido la necesidad de arrasar con todo? Esto sucede cuando 
 padecemos situaciones de ansiedad o estrés. Comer en abundancia calma este 

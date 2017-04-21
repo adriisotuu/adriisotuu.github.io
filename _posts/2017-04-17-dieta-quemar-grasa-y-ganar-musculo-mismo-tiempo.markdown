@@ -7,7 +7,7 @@ author: Adrià Soto
 category: dietas	
 tags: [dieta, adelgazar, nutrientes, proteínas, carbohidratos, grasas, consejo]
 ---
-![Dieta para quemar grasa](/assets/dieta_quemar_grasa.jpeg)
+![Dieta para quemar grasa](/img/dieta_quemar_grasa.jpeg)
 
 Cuando una persona se decide a perder peso, la mejor forma de hacerlo es someterse a 
 una dieta balanceada y realizar ejercicio físico de forma regular. Lo que no muchos 

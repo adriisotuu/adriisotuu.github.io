@@ -8,7 +8,7 @@ category: rutinas
 tags: [rutina, gimnasio, ejercicios]
 ---
 
-![Primer mes de gimnasio](/assets/primer-mes-gimnasio.jpg)
+![Primer mes de gimnasio](/img/primer-mes-gimnasio.jpg)
 
 Puesto que el primer objetivo es aprender la realización correcta de cada ejercicio,
 durante este primer mes usaréis el mismo movimiento para cada parte corporal, de tal

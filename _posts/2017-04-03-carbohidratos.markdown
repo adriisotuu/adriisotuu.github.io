@@ -7,7 +7,7 @@ category: nutricion
 author: Adrià Soto
 tags: [nutrientes, dieta, carbohidratos, alimentos]
 ---
-![Fuentes de carbohidratos](/assets/fuentes-de-carbohidratos.jpg)
+![Fuentes de carbohidratos](/img/fuentes-de-carbohidratos.jpg)
 
 Los hidratos de carbono (HC), también denominados glúcidos, carbohidratos o, vulgarmente, 
 azúcares, están considerados como la fuente de energía preferida por el organismo humano, 

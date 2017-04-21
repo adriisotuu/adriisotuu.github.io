@@ -7,7 +7,7 @@ author: Adrià Soto
 category: dietas
 tags: [dieta, ingredientes, suplementos]
 ---
-![Dieta mujer para masa muscular](/assets/dieta_mujer_masa_muscular.jpg)
+![Dieta mujer para masa muscular](/img/dieta_mujer_masa_muscular.jpg)
 
 Como sabrás la alimentación es la base para poder ganar músculo; algunas fuentes indican que 
 es el 70% y el otro 30% es ejercicio y descanso. El desarrollo muscular requiere un incremento 

@@ -1,7 +1,7 @@
 ---
-layout: blogs_interes
+layout: blogs-interes
 title: Blogs de interés
-permalink: /blogs_de_interes/
+permalink: /blogs-de-interes/
 ---
 
 Aquí os iré dejando blogs que considero interesantes para que les echéis

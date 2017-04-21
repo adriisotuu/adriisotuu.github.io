@@ -7,7 +7,7 @@ author: Adrià Soto
 category: dietas
 tags: [dieta, nutrientes, adelgazar]
 ---
-![Dieta de 1200 calorías](/assets/dieta-de-1200-calorias.jpg)
+![Dieta de 1200 calorías](/img/dieta-de-1200-calorias.jpg)
 
 Esta dieta cuenta con un total de 1200 calorías repartidas en 5 comidas, la 
 cual puede ser usada en un peridodo de tiempo que no supere las dos semanas.
